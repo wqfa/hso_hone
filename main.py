@@ -1,4 +1,5 @@
-import requests,os,mechanize,random,json,names
+import requests,os,mechanize,random,json
+import  names
 from user_agent import generate_user_agent
 from uuid import uuid4
 uid = uuid4()
